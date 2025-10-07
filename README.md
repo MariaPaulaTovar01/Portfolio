@@ -5,14 +5,6 @@
 
 ---
 
-## 🖼️ Vista previa
-
-✨ Portafolio moderno, minimalista y animado, diseñado con un enfoque en la experiencia de usuario, fluidez visual y una estética neón sobre fondo oscuro.
-
-![Vista previa del portafolio](./public/Portafolio.png)
-
----
-
 ## 🎯 Descripción
 
 Este portafolio fue desarrollado para reflejar mi trabajo, habilidades y proyectos destacados como **Desarrolladora Web e Ingeniera Informática**.  
