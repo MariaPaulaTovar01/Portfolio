@@ -1,16 +1,70 @@
-# React + Vite
+# 🌐 Portafolio Personal — María Paula Parga Tovar
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> 💡 Desarrolladora Web | Ingeniera Informática  
+> Proyecto construido con **React + Vite + TailwindCSS + Framer Motion**
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🖼️ Vista previa
 
-## React Compiler
+✨ Portafolio moderno, minimalista y animado, diseñado con un enfoque en la experiencia de usuario, fluidez visual y una estética neón sobre fondo oscuro.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+![Vista previa del portafolio](./public/Portafolio.png)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🎯 Descripción
+
+Este portafolio fue desarrollado para reflejar mi trabajo, habilidades y proyectos destacados como **Desarrolladora Web e Ingeniera Informática**.  
+Incluye animaciones suaves, diseño responsive y un formulario de contacto funcional conectado mediante **EmailJS**.
+
+---
+
+## 🚀 Características principales
+
+- 🎨 **Diseño oscuro con detalles neón** (minimalismo moderno).  
+- ⚡ **Desarrollado con Vite** para máxima velocidad y rendimiento.  
+- 💫 **Animaciones con Framer Motion** para una experiencia fluida.  
+- 🧠 **Arquitectura modular** con componentes reutilizables.  
+- 📬 **Formulario de contacto funcional** vía EmailJS.  
+- 📱 **Totalmente responsive** en móviles, tablets y escritorio.  
+- 🌈 **Halo animado** y efectos dinámicos de fondo con gradientes.
+
+---
+
+## 🧰 Tecnologías utilizadas
+
+| Categoría | Tecnologías |
+|------------|-------------|
+| **Framework principal** | React + Vite |
+| **Estilos y diseño** | TailwindCSS |
+| **Animaciones** | Framer Motion |
+| **Servicios externos** | EmailJS |
+| **Control de versiones** | Git y GitHub |
+| **Despliegue** | Vercel |
+
+---
+## 🧠 Funcionalidades destacadas
+
+- 🔹 **Efectos visuales** con gradientes y sombras dinámicas.  
+- 🔹 **Transiciones suaves** entre secciones con scroll automático.  
+- 🔹 **Tarjetas de habilidades y proyectos** con animación interactiva.  
+- 🔹 **Formulario de contacto** con validación y confirmación de envío.  
+- 🔹 **Integración real con EmailJS** para recibir mensajes directamente.
+
+---
+
+## 📞 Contacto
+
+📧 **Correo:** mppt0919@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/maria-paula-parga-tovar-69324834a](https://www.linkedin.com/in/maria-paula-parga-tovar-69324834a)  
+💻 **GitHub:** [github.com/MariaPaulaTovar01](https://github.com/MariaPaulaTovar01)
+
+---
+
+## 🖤 Créditos
+
+Desarrollado con dedicación por **María Paula Parga Tovar**  
+✨ Inspirado en la armonía entre funcionalidad, diseño y tecnología.  
+
+> _“El código es el arte invisible que da vida a las ideas.”_
